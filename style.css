@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+
+.background-1 {background-image: linear-gradient(red, yellow);}
+.background-2 {background-image: linear-gradient(rgb(4, 0, 255), rgb(0, 255, 13));}
+.background-3 {background-image: linear-gradient(rgb(163, 35, 157), rgb(214, 170, 47));}
