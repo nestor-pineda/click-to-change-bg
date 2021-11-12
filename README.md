@@ -1,5 +1,7 @@
 # click-to-change-bg
 
+![](bg-color.gif)
+
 El array myColors contiene los colores que queremos usar.
 
 Seleccionamos el boton y lo guardamos en una variabel llamada "button".
